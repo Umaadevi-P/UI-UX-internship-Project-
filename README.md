@@ -5,7 +5,7 @@
 **Bookie** is a simple, clean, and student-friendly platform concept designed to help users search, preview, and access academic resources such as books and notes. Built as a UX case study project, it focuses on solving common frustrations in university content-sharing ecosystems—cluttered results, unclear ownership, and lack of useful context.
 **Redesigned Terms and Conditions** to be a user friendly and easy to scan, where design descisions were made by user research.
 
-[Figma link for both:](https://www.figma.com/design/EWLIVGiMjy8zF6yISAm5OV/Prism-Studio---Own-Project---Book-Share?node-id=2-980&t=W93KcBo7jasLUGOf-1)
+[Figma link for both](https://www.figma.com/design/EWLIVGiMjy8zF6yISAm5OV/Prism-Studio---Own-Project---Book-Share?node-id=2-980&t=W93KcBo7jasLUGOf-1)
 
 ---
 
@@ -50,8 +50,8 @@ The Bookie prototype reimagines the typical search and view experience for colle
 - Visuals inspired by real-world educational apps  
 - Prioritized accessibility and student usability  
 
-> ✨ Want to explore the UI? [Figma Link]
-(https://www.figma.com/design/EWLIVGiMjy8zF6yISAm5OV/Prism-Studio---Own-Project---Book-Share?node-id=2-980&t=Plql630APwo0292t-1)
+> ✨ Want to explore the UI? [[Figma Link]
+](https://www.figma.com/design/EWLIVGiMjy8zF6yISAm5OV/Prism-Studio---Own-Project---Book-Share?node-id=2-980&t=Plql630APwo0292t-1)
 ---
 
 ## 📄 Project 2: Terms & Conditions Redesign
