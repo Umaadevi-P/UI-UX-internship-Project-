@@ -46,7 +46,7 @@ The Bookie prototype reimagines the typical search and view experience for colle
 - Visuals inspired by real-world educational apps  
 - Prioritized accessibility and student usability  
 
-> ✨ Want to explore the UI? [[Insert prototype link here]
+> ✨ Want to explore the UI? [[Figma Link]
 ](https://www.figma.com/design/EWLIVGiMjy8zF6yISAm5OV/Prism-Studio---Own-Project---Book-Share?node-id=2-980&t=Plql630APwo0292t-1)
 ---
 
